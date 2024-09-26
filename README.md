@@ -38,7 +38,7 @@ Fatalities and Injuries: Counts of total fatalities and injuries in each event.
 Weather Conditions: Flight conditions such as IMC (Instrument Meteorological Conditions) or VMC (Visual Meteorological Conditions).
 Phase of Flight: Phase during which the accident occurred (e.g., Cruise, Approach).
 ## Data Visualization
-we have done data our data visualization
+we have done data our data visualization 
 ![alt text](image1.png)
 In this plot, we are analysing the top 20  companies which are involved in most of the accidents. 'Cessna' has 25,853 accidents in the bucket whereas 'Piper' and ' Beech' have 14,168 and 2285 accidents, respectively.
 
